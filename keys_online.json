@@ -1,10 +1,10 @@
 {
-  "VIP-U8NH-EACB-L7FZ-BQXK": {
-    "expire": "2026-05-30",
-    "machine": ""
-  },
-  "VIP-R3KM-9DQA-M2YW-H6PV": {
-    "expire": "2026-05-30",
-    "machine": ""
-  }
+    "VIP-U8NH-EACB-L7FZ-BQXK": {
+        "expire": "2026-05-30",
+        "machine": "f2df19c528b05f8070257ac0053b03dbbcc53580eb9e4d880bdc4bb2dbb736ac"
+    },
+    "VIP-R3KM-9DQA-M2YW-H6PV": {
+        "expire": "2026-05-30",
+        "machine": ""
+    }
 }
