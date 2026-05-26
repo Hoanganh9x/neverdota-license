@@ -1,50 +1,69 @@
 {
+  "NeverDota": {
+
     "VIP-U8NH-EACB-L7FZ-BQXK": {
-        "expire": "2026-05-30",
-        "machine": "f2df19c528b05f8070257ac0053b03dbbcc53580eb9e4d880bdc4bb2dbb736ac"
+      "expire": "2026-05-30",
+      "machine": "f2df19c528b05f8070257ac0053b03dbbcc53580eb9e4d880bdc4bb2dbb736ac"
     },
+
     "VIP-R3KM-9DQA-M2YW-H6PV": {
-        "expire": "2026-05-30",
-        "machine": "6110b157ee283bf601df1618edcee4eee7685528ec76233a9455c5fb3f13f4af"
+      "expire": "2026-05-30",
+      "machine": "6110b157ee283bf601df1618edcee4eee7685528ec76233a9455c5fb3f13f4af"
     },
+
     "VIP-A7KD-92LM-Q1XZ-5PWR": {
-        "expire": "2026-05-30",
-        "machine": "6110b157ee283bf601df1618edcee4eee7685528ec76233a9455c5fb3f13f4af"
-    },
-    "VIP-T8NB-4QCY-7HJM-K2LA": {
-        "expire": "2026-05-30",
-        "machine": "f2df19c528b05f8070257ac0053b03dbbcc53580eb9e4d880bdc4bb2dbb736ac"
-    },
-    "VIP-X3RE-8MVP-Z6KF-9DQT": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-C9YU-2WBN-R5LG-8JXA": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-M4PK-7FHD-T9QV-3NZE": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-Q2LT-5XRC-B8YM-6KDW": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-H8NF-3JZA-P4VC-7RME": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-W6DX-9GKM-T2QB-4LNY": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-R1CV-8PZA-H5XM-2QTK": {
-        "expire": "2026-05-30",
-        "machine": ""
-    },
-    "VIP-K5MN-2QXT-W8LA-9DVR": {
-        "expire": "2026-05-30",
-        "machine": ""
+      "expire": "2026-05-30",
+      "machine": "6110b157ee283bf601df1618edcee4eee7685528ec76233a9455c5fb3f13f4af"
     }
+
+  },
+
+  "BattleArena": {
+
+    "VIP-T8NB-4QCY-7HJM-K2LA": {
+      "expire": "2026-05-30",
+      "machine": "f2df19c528b05f8070257ac0053b03dbbcc53580eb9e4d880bdc4bb2dbb736ac"
+    },
+
+    "VIP-X3RE-8MVP-Z6KF-9DQT": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-C9YU-2WBN-R5LG-8JXA": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-M4PK-7FHD-T9QV-3NZE": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-Q2LT-5XRC-B8YM-6KDW": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-H8NF-3JZA-P4VC-7RME": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-W6DX-9GKM-T2QB-4LNY": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-R1CV-8PZA-H5XM-2QTK": {
+      "expire": "2026-05-30",
+      "machine": ""
+    },
+
+    "VIP-K5MN-2QXT-W8LA-9DVR": {
+      "expire": "2026-05-30",
+      "machine": ""
+    }
+
+  }
 }
