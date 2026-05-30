@@ -86,7 +86,7 @@
   "FishGame": {
     "FISH-VIP-2026-TEST-0001": {
       "expire": "2026-06-30",
-      "machine": ""
+      "machine": "82f78725c855bdd5c77704c8822b7558c0b4300224efb7130bdc54667615b9d5"
     },
     "FISH-VIP-7KDA-92LM-Q1XZ": {
       "expire": "2026-06-30",
@@ -94,7 +94,7 @@
     },
     "FISH-VIP-R3KM-9DQA-M2YW": {
       "expire": "2026-06-30",
-      "machine": "" 
+      "machine": ""
     }
   }
 }
